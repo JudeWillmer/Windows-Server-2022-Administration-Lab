@@ -11,8 +11,11 @@ Throughout this project, I configured **Active Directory**, managed **Users and 
 ## Technologies
 
 - Windows Server 2022
-- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services
 - Group Policy
+- DNS
+- SMB Shared Folders
+- NTFS Permissions
 - Windows 10 Pro
 - Command Prompt
 
