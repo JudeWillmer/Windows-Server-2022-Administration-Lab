@@ -14,7 +14,6 @@ Throughout this project, I configured **Active Directory**, managed **Users and 
 - Active Directory Domain Services (AD DS)
 - Group Policy
 - Windows 10 Pro
-- VirtualBox
 - Command Prompt
 
 ---
