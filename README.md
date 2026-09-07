@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This repository documents my Windows Server 2022 lab, where I practised common tasks performed by an IT Support Technician using a fictional company called **JayTech**.
+This repository documents my Windows Server 2022 lab, where I practised common tasks performed by an IT Support Technician using a fictional company called JayTech.
 
-Throughout this project, I configured **Active Directory**, managed **Users and Groups**, applied **Group Policy (GPO)**, created **Shared Folders**, joined **Windows 10 clients** to the **Domain**, and worked through common **Troubleshooting** scenarios.
+Throughout this project, I configured Active Directory, managed Users and Groups, applied Group Policy (GPO), created Shared Folders, joined Windows 10 clients to the Domain, and worked through common Troubleshooting scenarios.
 
 ---
 
