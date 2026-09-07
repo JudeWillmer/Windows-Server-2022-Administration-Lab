@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section covers the core **Active Directory** administration tasks I completed within the **Windows Server 2022** lab. I created and managed **Organisational Units (OUs)**, **user accounts**, and **security groups**, while performing common administrative tasks such as assigning users to groups, resetting passwords, and disabling user accounts. These tasks demonstrate the fundamental account and identity management skills used in a typical **Windows Server** environment.
+This section covers the core Active Directory administration tasks I completed within the Windows Server 2022 lab. I created and managed Organisational Units (OUs), user accounts, and security groups, while performing common administrative tasks such as assigning users to groups, resetting passwords, and disabling user accounts. These tasks demonstrate the fundamental account and identity management skills used in a typical Windows Server environment.
 
 ---
 
@@ -10,13 +10,13 @@ This section covers the core **Active Directory** administration tasks I complet
 
 ## Objective
 
-Configure a **static IPv4 address** on the **Windows Server 2022** Domain Controller to provide a stable network configuration for **Active Directory** and **DNS** services.
+Configure a static IPv4 address on the Windows Server 2022 Domain Controller to provide a stable network configuration for Active Directory and DNS services.
 
 ---
 
 ## Implementation
 
-I configured a **static IPv4 address** on the server's **internal network adapter** to ensure the **Domain Controller** maintained a consistent network identity. A static IP address is considered best practice because **Active Directory** and **DNS** services rely on a fixed address so that domain-joined devices can reliably locate and communicate with the server.
+I configured a static IPv4 address on the server's internal network adapter to ensure the Domain Controller maintained a consistent network identity. A static IP address is considered best practice because Active Directory and DNS services rely on a fixed address so that domain-joined devices can reliably locate and communicate with the server.
 
 ---
 
@@ -38,13 +38,13 @@ Control Panel
 
 ## Outcome
 
-The **internal network adapter** was successfully configured with a **static IPv4 address**, providing a stable network foundation for **Active Directory**, **DNS**, and future domain-joined client computers.
+The internal network adapter was successfully configured with a static IPv4 address, providing a stable network foundation for Active Directory, DNS, and future domain-joined client computers.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Configuring a **static IPv4 address** on the **internal network adapter** for the **Windows Server 2022** Domain Controller.
+**Figure 1:** Configuring a static IPv4 address on the internal network adapter for the Windows Server 2022 Domain Controller.
 
 <img width="1285" height="871" alt="01 – Static IP Configuration" src="https://github.com/user-attachments/assets/ee4a265c-9e73-4b9a-a21e-8c55af498626" />
 
@@ -52,13 +52,13 @@ The **internal network adapter** was successfully configured with a **static IPv
 
 ## Objective
 
-Create a structured **Organisational Unit (OU)** hierarchy within **Active Directory** to organise users, computers, and security groups for the fictional **JayTech** environment.
+Create a structured Organisational Unit (OU) hierarchy within Active Directory to organise users, computers, and security groups for the fictional JayTech environment.
 
 ---
 
 ## Implementation
 
-I created a structured **Organisational Unit (OU)** hierarchy within the **JayTech** organisational unit to organise users, computers, and security groups into logical containers. This structure simplifies administration, supports the application of **Group Policy**, and follows common **Active Directory** best practices.
+I created a structured Organisational Unit (OU) hierarchy within the JayTech organisational unit to organise users, computers, and security groups into logical containers. This structure simplifies administration, supports the application of Group Policy, and follows common Active Directory best practices.
 
 ---
 
