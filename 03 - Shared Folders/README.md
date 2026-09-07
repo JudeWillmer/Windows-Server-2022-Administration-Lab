@@ -153,7 +153,7 @@ Configure Share Permissions for the Sales shared folder to control how authorise
 
 ## Implementation
 
-Using the **Sharing** properties for the **Sales** folder, I configured **Share Permissions** by adding the **Sales_Users** security group and assigning **Read/Write** access. This allows authorised users to access and modify shared files over the network while maintaining administrative access.
+Using the Sharing properties for the Sales folder, I configured Share Permissions by adding the Sales_Users security group and assigning Read/Write access. This allows authorised users to access and modify shared files over the network while maintaining administrative access.
 
 ---
 
@@ -177,12 +177,12 @@ File Explorer
 
 ## Outcome
 
-The **Sales** shared folder was configured with **Share Permissions**, allowing members of the **Sales_Users** security group to read and modify files when accessing the folder over the network.
+The Sales shared folder was configured with Share Permissions, allowing members of the Sales_Users security group to read and modify files when accessing the folder over the network.
 
 ---
 
 ## Screenshot
 
-**Figure 4:** Configuring **Share Permissions** for the **Sales** shared folder.
+**Figure 4:** Configuring Share Permissions for the Sales shared folder.
 
 <img width="1367" height="916" alt="04 – Configuring Share Permissions" src="https://github.com/user-attachments/assets/e8b51b1c-2a0c-4b57-86b9-26d59eb8f862" />
