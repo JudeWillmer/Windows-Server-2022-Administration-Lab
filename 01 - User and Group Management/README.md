@@ -80,13 +80,13 @@ Active Directory Users and Computers
 
 ## Outcome
 
-A structured **Active Directory** environment was created within the **JayTech** organisational unit, providing a logical hierarchy for managing users, computers, and security groups throughout the Windows Server lab.
+A structured Active Directory environment was created within the JayTech organisational unit, providing a logical hierarchy for managing users, computers, and security groups throughout the Windows Server lab.
 
 ---
 
 ## Screenshot
 
-**Figure 2:** Organisational Unit structure created within the **JayTech** organisational unit.
+**Figure 2:** Organisational Unit structure created within the JayTech organisational unit.
 
 <img width="1917" height="892" alt="02 – Creating the Organisational Unit (OU) Structure" src="https://github.com/user-attachments/assets/9060cdf1-f49f-41b6-8924-c509094e04fb" />
 
@@ -94,13 +94,13 @@ A structured **Active Directory** environment was created within the **JayTech**
 
 ## Objective
 
-Create a **user account** within the **Active Directory** environment to represent an employee in the fictional **JayTech** organisation.
+Create a user account within the Active Directory environment to represent an employee in the fictional JayTech organisation.
 
 ---
 
 ## Implementation
 
-I created a new **Active Directory** user account within the appropriate **Organisational Unit (OU)**. User accounts allow employees to authenticate to the domain, access network resources, and receive permissions based on their assigned security groups.
+I created a new Active Directory user account within the appropriate Organisational Unit (OU). User accounts allow employees to authenticate to the domain, access network resources, and receive permissions based on their assigned security groups.
 
 ---
 
@@ -124,13 +124,13 @@ Active Directory Users and Computers
 
 ## Outcome
 
-A new **Active Directory** user account was successfully created within the **JayTech** environment and is ready to be assigned to security groups and granted access to network resources.
+A new Active Directory user account was successfully created within the JayTech environment and is ready to be assigned to security groups and granted access to network resources.
 
 ---
 
 ## Screenshot
 
-**Figure 3:** Creating a new user account within the **JayTech** Active Directory environment.
+**Figure 3:** Creating a new user account within the JayTech Active Directory environment.
 
 <img width="1917" height="888" alt="03 – Creating a User Account" src="https://github.com/user-attachments/assets/35dbc75f-0684-48ae-98d1-b1243b33a658" />
 
@@ -138,13 +138,13 @@ A new **Active Directory** user account was successfully created within the **Ja
 
 ## Objective
 
-Create a **security group** within **Active Directory** to simplify permission management and provide a scalable way to assign access to users.
+Create a security group within Active Directory to simplify permission management and provide a scalable way to assign access to users.
 
 ---
 
 ## Implementation
 
-I created a new **security group** within the **Groups** organisational unit. Security groups allow permissions to be assigned to a group rather than individual users, making administration more efficient and easier to manage as the environment grows.
+I created a new security group within the Groups organisational unit. Security groups allow permissions to be assigned to a group rather than individual users, making administration more efficient and easier to manage as the environment grows.
 
 ---
 
@@ -167,13 +167,13 @@ Active Directory Users and Computers
 
 ## Outcome
 
-A **Global Security Group** was successfully created within the **JayTech** environment. The group can now be used to manage permissions and simplify user administration throughout the Active Directory environment.
+A Global Security Group was successfully created within the JayTech environment. The group can now be used to manage permissions and simplify user administration throughout the Active Directory environment.
 
 ---
 
 ## Screenshot
 
-**Figure 4:** Creating a Global Security Group within the **JayTech** Active Directory environment.
+**Figure 4:** Creating a Global Security Group within the JayTech Active Directory environment.
 
 <img width="1087" height="888" alt="04 – Creating a Security Group" src="https://github.com/user-attachments/assets/7e4fdf91-ef56-4213-99dc-92a12289a18c" />
 
@@ -181,13 +181,13 @@ A **Global Security Group** was successfully created within the **JayTech** envi
 
 ## Objective
 
-Assign **Active Directory** user accounts to **security groups** to simplify permission management and prepare the environment for assigning access to network resources.
+Assign Active Directory user accounts to security groups to simplify permission management and prepare the environment for assigning access to network resources.
 
 ---
 
 ## Implementation
 
-I added users to their appropriate **security groups** based on their department and role within the fictional **JayTech** organisation. Assigning users to security groups allows permissions to be managed centrally, making it easier to grant or revoke access without configuring permissions for individual user accounts.
+I added users to their appropriate security groups based on their department and role within the fictional JayTech organisation. Assigning users to security groups allows permissions to be managed centrally, making it easier to grant or revoke access without configuring permissions for individual user accounts.
 
 ---
 
@@ -213,13 +213,13 @@ Active Directory Users and Computers
 
 ## Outcome
 
-The selected users were successfully assigned to their respective **security groups**, providing a scalable and efficient way to manage permissions throughout the **Active Directory** environment.
+The selected users were successfully assigned to their respective security groups, providing a scalable and efficient way to manage permissions throughout the Active Directory environment.
 
 ---
 
 ## Screenshot
 
-**Figure 5:** Users assigned to the appropriate security groups within the **JayTech** Active Directory environment.
+**Figure 5:** Users assigned to the appropriate security groups within the JayTech Active Directory environment.
 
 <img width="1138" height="892" alt="05 – Managing Security Group Membership" src="https://github.com/user-attachments/assets/5eada875-1c9a-4ea2-8eb9-352614b3d4f5" />
 
@@ -227,13 +227,13 @@ The selected users were successfully assigned to their respective **security gro
 
 ## Objective
 
-Reset an **Active Directory** user account password to restore account access and maintain secure user account administration.
+Reset an Active Directory user account password to restore account access and maintain secure user account administration.
 
 ---
 
 ## Implementation
 
-I reset the password for an existing **Active Directory** user account using **Active Directory Users and Computers**. Password resets are one of the most common tasks performed by **IT Support** and **System Administrators**, allowing users to regain access to their accounts while supporting secure authentication and organisational security policies.
+I reset the password for an existing Active Directory user account using Active Directory Users and Computers. Password resets are one of the most common tasks performed by IT Support and System Administrators, allowing users to regain access to their accounts while supporting secure authentication and organisational security policies.
 
 ---
 
