@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section covers the core **Group Policy** administration tasks I completed within the **Windows Server 2022** lab. I configured and managed **Group Policy** settings within the **Default Domain Policy** to enforce security and user configuration settings across the **Active Directory** domain. These tasks demonstrate how **Group Policy** enables centralised administration by allowing administrators to apply consistent security settings, user configurations, and centrally managed resources throughout a **Windows Server** environment.
+This section covers the core Group Policy administration tasks I completed within the Windows Server 2022 lab. I configured and managed Group Policy settings within the Default Domain Policy to enforce security and user configuration settings across the Active Directory domain. These tasks demonstrate how Group Policy enables centralised administration by allowing administrators to apply consistent security settings, user configurations, and centrally managed resources throughout a Windows Server environment.
 
 ---
 
@@ -10,13 +10,13 @@ This section covers the core **Group Policy** administration tasks I completed w
 
 ## Objective
 
-Configure **Password Policy** settings within the **Default Domain Policy** to enforce secure password requirements across the **Active Directory** domain.
+Configure Password Policy settings within the Default Domain Policy to enforce secure password requirements across the Active Directory domain.
 
 ---
 
 ## Implementation
 
-I configured the **Password Policy** settings within the **Default Domain Policy** using **Group Policy Management**. These settings define password requirements such as password length, complexity, history, and password age, helping organisations enforce stronger authentication and improve domain security.
+I configured the Password Policy settings within the Default Domain Policy using Group Policy Management. These settings define password requirements such as password length, complexity, history, and password age, helping organisations enforce stronger authentication and improve domain security.
 
 ---
 
@@ -43,13 +43,13 @@ Server Manager
 
 ## Outcome
 
-The **Password Policy** settings were successfully configured within the **Default Domain Policy**, providing a centralised method of enforcing consistent password requirements across the **Active Directory** domain.
+The Password Policy settings were successfully configured within the Default Domain Policy, providing a centralised method of enforcing consistent password requirements across the Active Directory domain.
 
 ---
 
 ## Screenshot
 
-**Figure 1:** Configured **Password Policy** settings within the **Default Domain Policy** using **Group Policy Management**.
+**Figure 1:** Configured Password Policy settings within the Default Domain Policy using Group Policy Management.
 
 <img width="1517" height="887" alt="01 – Configuring Password Policy Settings" src="https://github.com/user-attachments/assets/d873a6e5-06fe-4be6-8fa2-b684a98e1c0c" />
 
@@ -57,13 +57,13 @@ The **Password Policy** settings were successfully configured within the **Defau
 
 ## Objective
 
-Configure **Account Lockout Policy** settings within the **Default Domain Policy** to help protect the **Active Directory** domain against repeated failed sign-in attempts.
+Configure Account Lockout Policy settings within the Default Domain Policy to help protect the Active Directory domain against repeated failed sign-in attempts.
 
 ---
 
 ## Implementation
 
-I configured the **Account Lockout Policy** settings within the **Default Domain Policy** using **Group Policy Management**. These settings determine how many failed sign-in attempts are permitted before an account is locked, how long the account remains locked, and when the failed sign-in counter is reset. This helps reduce the risk of brute-force password attacks while improving domain security.
+I configured the Account Lockout Policy settings within the Default Domain Policy using Group Policy Management. These settings determine how many failed sign-in attempts are permitted before an account is locked, how long the account remains locked, and when the failed sign-in counter is reset. This helps reduce the risk of brute-force password attacks while improving domain security.
 
 ---
 
@@ -90,13 +90,13 @@ Server Manager
 
 ## Outcome
 
-The **Account Lockout Policy** settings were successfully configured within the **Default Domain Policy**, helping to protect user accounts by automatically locking them after multiple failed sign-in attempts.
+The Account Lockout Policy settings were successfully configured within the Default Domain Policy, helping to protect user accounts by automatically locking them after multiple failed sign-in attempts.
 
 ---
 
 ## Screenshot
 
-**Figure 2:** Configured **Account Lockout Policy** settings within the **Default Domain Policy** using **Group Policy Management**.
+**Figure 2:** Configured Account Lockout Policy settings within the Default Domain Policy using Group Policy Management.
 
 <img width="1342" height="888" alt="02 – Configuring Account Lockout Policy Settings" src="https://github.com/user-attachments/assets/1b1890ad-a2cf-4b2e-b98e-d585a107b92f" />
 
@@ -104,13 +104,13 @@ The **Account Lockout Policy** settings were successfully configured within the 
 
 ## Objective
 
-Configure a **Group Policy** setting to apply a standard desktop wallpaper for domain users, demonstrating centralised desktop configuration using **Group Policy Management**.
+Configure a Group Policy setting to apply a standard desktop wallpaper for domain users, demonstrating centralised desktop configuration using Group Policy Management.
 
 ---
 
 ## Implementation
 
-I configured the **Desktop Wallpaper** policy within the **Default Domain Policy** using **Group Policy Management**. The policy specifies a centrally managed wallpaper stored in a **network-accessible shared folder** on the server using a **UNC path**, allowing the desktop wallpaper to be applied automatically to domain users when Group Policy is refreshed.
+I configured the Desktop Wallpaper policy within the Default Domain Policy using Group Policy Management. The policy specifies a centrally managed wallpaper stored in a network-accessible shared folder on the server using a UNC path, allowing the desktop wallpaper to be applied automatically to domain users when Group Policy is refreshed.
 
 ---
 
@@ -137,13 +137,13 @@ Server Manager
 
 ## Outcome
 
-The **Desktop Wallpaper** policy was successfully configured within the **Default Domain Policy**, enabling a consistent desktop wallpaper to be applied to domain users from a centrally managed shared location through **Group Policy**.
+The Desktop Wallpaper policy was successfully configured within the Default Domain Policy, enabling a consistent desktop wallpaper to be applied to domain users from a centrally managed shared location through Group Policy.
 
 ---
 
 ## Screenshot
 
-**Figure 3:** Configured the **Desktop Wallpaper** policy within the **Default Domain Policy** using a network-accessible shared folder.
+**Figure 3:** Configured the Desktop Wallpaper policy within the Default Domain Policy using a network-accessible shared folder.
 
 <img width="1721" height="892" alt="03 – Configuring a Desktop Wallpaper Policy" src="https://github.com/user-attachments/assets/9ae62bd2-3167-43d7-ad67-40f8f5f36f67" />
 
