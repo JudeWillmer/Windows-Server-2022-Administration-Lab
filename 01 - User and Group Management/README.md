@@ -262,7 +262,7 @@ The user's password was successfully reset, allowing them to authenticate using 
 
 ## Screenshot
 
-**Figure 6:** Resetting an **Active Directory** user account password within the **JayTech** environment.
+**Figure 6:** Resetting an Active Directory user account password within the JayTech environment.
 
 <img width="1137" height="887" alt="06 – Resetting a User Password" src="https://github.com/user-attachments/assets/c157f0d0-bb36-495f-b03e-33c1c9ee35f7" />
 
@@ -270,13 +270,13 @@ The user's password was successfully reset, allowing them to authenticate using 
 
 ## Objective
 
-Disable an **Active Directory** user account to prevent access while retaining the account and its associated data for future administration if required.
+Disable an Active Directory user account to prevent access while retaining the account and its associated data for future administration if required.
 
 ---
 
 ## Implementation
 
-I disabled an existing **Active Directory** user account using **Active Directory Users and Computers**. Disabling an account is a common administrative task performed when an employee leaves an organisation, takes an extended period of leave, or when temporary access needs to be suspended without permanently deleting the account.
+I disabled an existing Active Directory user account using Active Directory Users and Computers. Disabling an account is a common administrative task performed when an employee leaves an organisation, takes an extended period of leave, or when temporary access needs to be suspended without permanently deleting the account.
 
 ---
 
@@ -302,6 +302,6 @@ The selected user account was successfully disabled, preventing the user from au
 
 ## Screenshot
 
-**Figure 7:** Disabled **Active Directory** user account within the **JayTech** environment.
+**Figure 7:** Disabled Active Directory user account within the JayTech environment.
 
 <img width="1113" height="891" alt="07 – Disabling a User Account" src="https://github.com/user-attachments/assets/32beeae2-a124-4026-bd2d-5aef825f36d1" />
